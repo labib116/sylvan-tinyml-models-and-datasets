@@ -1,0 +1,23 @@
+{
+  "model": "mobilenetv2_035",
+  "dataset": "tinyml_plant_health_dataset",
+  "image_size": 96,
+  "batch_size": 16,
+  "epochs_requested": 30,
+  "seed": 20260927,
+  "class_names": [
+    "healthy",
+    "unhealthy"
+  ],
+  "class_weights": {
+    "0": 0.9886363636363636,
+    "1": 1.0116279069767442
+  },
+  "tensorflow_version": "2.21.0",
+  "gpu_devices": [],
+  "parameter_count": 411489,
+  "trainable_parameter_count": 1281,
+  "initial_model": null,
+  "fine_tune_layers": 0,
+  "learning_rate": 0.0005
+}

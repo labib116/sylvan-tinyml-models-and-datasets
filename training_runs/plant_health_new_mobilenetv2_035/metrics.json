@@ -1,0 +1,27 @@
+{
+  "keras_test": {
+    "accuracy": 0.7808219194412231,
+    "auc": 0.847597599029541,
+    "loss": 0.5207778811454773,
+    "precision": 0.8181818127632141,
+    "recall": 0.7297297120094299
+  },
+  "confusion": {
+    "true_negative": 30,
+    "false_positive": 6,
+    "false_negative": 10,
+    "true_positive": 27,
+    "accuracy": 0.7808219178082192,
+    "precision_unhealthy": 0.8181818181818182,
+    "recall_unhealthy": 0.7297297297297297,
+    "specificity_healthy": 0.8333333333333334,
+    "f1_unhealthy": 0.7714285714285715
+  },
+  "epochs_completed": 30,
+  "exports": {
+    "float32_path": "training_runs\\plant_health_new_mobilenetv2_035\\model_float32.tflite",
+    "float32_bytes": 1628628,
+    "int8_path": "training_runs\\plant_health_new_mobilenetv2_035\\model_int8.tflite",
+    "int8_bytes": 652952
+  }
+}
