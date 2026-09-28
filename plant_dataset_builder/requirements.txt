@@ -1,0 +1,6 @@
+Pillow>=10.3,<13
+ImageHash>=4.3,<5
+PyYAML>=6.0,<7
+python-dotenv>=1.0,<2
+requests>=2.32,<3
+

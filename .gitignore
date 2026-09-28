@@ -1,0 +1,49 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+.env.*
+*.key
+*.pem
+kaggle.json
+
+# Downloaded/generated datasets
+downloaded_images/
+whole_csv_candidates/
+plantvillage_subset/
+nonplant_candidates/
+generic_drought_dataset/
+generic_stress_candidates/
+generic_stress_candidates_v2/
+generic_unhealthy_candidates/
+quality_review/
+
+tinyml_contextual_plant_dataset/
+tinyml_health_overfit_dataset/
+tinyml_plant_health_dataset/
+tinyml_plant_presence_dataset/
+tinyml_whole_plant_dataset/
+
+plant_dataset_builder/dataset/
+
+# Generated review images
+*_contact_sheet.jpg
+*_overview.jpg
+review_*.jpg
+
+# TensorBoard logs
+**/tensorboard/
+
+# Keep exported models; do not ignore .tflite or .keras

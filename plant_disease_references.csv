@@ -1,0 +1,56 @@
+plant_id,common_disease,pathogen_or_cause,disease_query,evidence_scope,source_url
+tomato,Late blight,Phytophthora infestans,tomato late blight whole plant symptoms,host-specific Bangladesh-supported,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Tomato.aspx
+chili_pepper,Anthracnose,Colletotrichum truncatum,chili pepper anthracnose diseased plant,host-specific Bangladesh-supported,https://dae.gov.bd/sites/default/files/files/dae.portal.gov.bd/page/8a812db0_3544_4105_b066_df78074d3efb/Registered%20Agricultural%20PesticidesList%20%286%29.pdf
+eggplant,Bacterial wilt,Ralstonia solanacearum,eggplant bacterial wilt whole plant symptoms,host-specific,https://ephytia.inrae.fr/en/D/2855
+okra,Yellow vein mosaic,Bhendi yellow vein mosaic virus,okra yellow vein mosaic whole plant symptoms,host-specific,https://plantix.net/en/community/questions/okra/20190802/why-is-it-caused-how-should-we-control-this-one/
+bottle_gourd,Downy mildew,Pseudoperonospora cubensis,bottle gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+bitter_gourd,Downy mildew,Pseudoperonospora cubensis,bitter gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+ridge_gourd,Downy mildew,Pseudoperonospora cubensis,ridge gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+sponge_gourd,Downy mildew,Pseudoperonospora cubensis,sponge gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+snake_gourd,Downy mildew,Pseudoperonospora cubensis,snake gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+pointed_gourd,Downy mildew,Pseudoperonospora cubensis,pointed gourd downy mildew plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+pumpkin,Downy mildew,Pseudoperonospora cubensis,pumpkin downy mildew whole plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+cucumber,Downy mildew,Pseudoperonospora cubensis,cucumber downy mildew whole plant symptoms,cucurbit-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Cucurbits.aspx
+yardlong_bean,Bean rust,Uromyces appendiculatus,yardlong bean rust diseased plant,bean-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+hyacinth_bean,Anthracnose,Colletotrichum lindemuthianum,hyacinth bean anthracnose diseased plant,bean-group provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+malabar_spinach,Cercospora leaf spot,Cercospora spp.,Malabar spinach Cercospora leaf spot plant,host-associated provisional,https://edis.ifas.ufl.edu/publication/IN1378/pdf
+red_amaranth,White rust,Albugo bliti,red amaranth white rust diseased plant,host-associated provisional,https://edis.ifas.ufl.edu/hs1407
+stem_amaranth,White rust,Albugo bliti,stem amaranth white rust diseased plant,host-associated provisional,https://edis.ifas.ufl.edu/hs1407
+water_spinach,White rust,Albugo ipomoeae-aquaticae,water spinach white rust diseased plant,host-associated provisional,https://edis.ifas.ufl.edu/publication/IN1378/pdf
+coriander,Powdery mildew,Erysiphe polygoni,coriander powdery mildew whole plant,host-specific,https://www.agritech.tnau.ac.in/ta/crop_protection/crop_prot_crop%20diseases_spices_coriander.html
+mint,Mint rust,Puccinia menthae,mint rust diseased plant,host-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+holy_basil_tulsi,Downy mildew,Peronospora belbahrii,holy basil tulsi downy mildew plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+indian_borage,Leaf spot,Cercospora spp.,Indian borage leaf spot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+aloe_vera,Leaf spot,Alternaria alternata,Aloe vera fungal leaf spot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+turmeric,Leaf blotch,Taphrina maculans,turmeric leaf blotch diseased plant,host-specific regional,https://www.agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_spices_turmeric.html
+ginger,Soft rot or rhizome rot,Pythium aphanidermatum,ginger soft rot diseased plant symptoms,host-specific regional,https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_spices_ginger.html
+rose,Black spot,Diplocarpon rosae,rose black spot diseased plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+hibiscus,Anthracnose,Colletotrichum spp.,hibiscus anthracnose diseased plant,host-specific,https://edis.ifas.ufl.edu/publication/EP659/pdf
+marigold,Alternaria leaf spot,Alternaria tagetica,marigold Alternaria leaf spot diseased plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+periwinkle,Alternaria leaf spot,Alternaria alternata,periwinkle Catharanthus Alternaria leaf spot plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+arabian_jasmine,Alternaria leaf blight,Alternaria jasmini,Arabian jasmine Alternaria leaf blight plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+night_flowering_jasmine,Cercospora leaf spot,Cercospora spp.,night flowering jasmine leaf spot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+gardenia,Anthracnose,Colletotrichum spp.,gardenia anthracnose diseased plant,host-specific,https://edis.ifas.ufl.edu/publication/EP659/pdf
+bougainvillea,Cercospora leaf spot,Cercospora bougainvilleae,bougainvillea Cercospora leaf spot plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+butterfly_pea,Anthracnose,Colletotrichum spp.,butterfly pea anthracnose diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+crape_jasmine,Leaf spot,Cercospora spp.,crape jasmine leaf spot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+ixora,Anthracnose,Colletotrichum spp.,ixora anthracnose diseased plant,host-specific,https://edis.ifas.ufl.edu/publication/EP659/pdf
+chrysanthemum,White rust,Puccinia horiana,chrysanthemum white rust diseased plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Chrysanthemum.aspx
+sunflower,Rust,Puccinia helianthi,sunflower rust diseased plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+moss_rose,Alternaria leaf spot,Alternaria spp.,moss rose Portulaca leaf spot diseased plant,bedding-plant provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+crown_of_thorns,Powdery mildew,Oidium spp.,crown of thorns powdery mildew diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+lemon_lime,Citrus canker,Xanthomonas citri,citrus canker lemon lime diseased plant,host-group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+guava,Anthracnose,Colletotrichum gloeosporioides,guava anthracnose diseased plant,host-specific provisional,https://edis.ifas.ufl.edu/publication/EP659/pdf
+papaya,Papaya ringspot,Papaya ringspot virus,papaya ringspot virus diseased whole plant,host-specific,https://www.apsnet.org/edcenter/resources/commonnames/Pages/Papaya.aspx
+pomegranate,Anthracnose,Colletotrichum spp.,pomegranate anthracnose diseased plant,host-specific,https://edis.ifas.ufl.edu/publication/PP349/pdf
+indian_jujube,Powdery mildew,Oidium erysiphoides,Indian jujube powdery mildew diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+dragon_fruit,Stem canker,Neoscytalidium dimidiatum,dragon fruit stem canker diseased plant,host-specific provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/default.aspx
+prickly_pear_cactus,Anthracnose,Colletotrichum spp.,prickly pear cactus anthracnose pad disease,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+golden_barrel_cactus,Root rot,Phytophthora spp.,golden barrel cactus root rot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+snake_plant,Southern blight,Athelia rolfsii,snake plant southern blight diseased plant,foliage-plant group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+pothos_money_plant,Rhizoctonia blight,Rhizoctonia solani,pothos Rhizoctonia blight diseased plant,host-specific,https://edis.ifas.ufl.edu/publication/PP340/pdf
+croton,Anthracnose,Colletotrichum spp.,croton anthracnose diseased plant,foliage-plant group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+coleus,Downy mildew,Peronospora spp.,coleus downy mildew diseased plant,bedding-plant group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/BeddingPlants.aspx
+areca_palm,Leaf spot,Exserohilum rostratum,areca palm fungal leaf spot diseased plant,provisional,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+rubber_plant,Anthracnose,Colletotrichum spp.,rubber plant Ficus elastica anthracnose,foliage-plant group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
+chinese_evergreen,Bacterial leaf blight,Xanthomonas phaseoli pv. dieffenbachiae,Chinese evergreen Aglaonema bacterial leaf blight,foliage-plant group,https://www.apsnet.org/edcenter/resources/commonnames/Pages/FoliagePlants.aspx
