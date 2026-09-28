@@ -1,0 +1,74 @@
+{
+  "seed": 20260927,
+  "image_size": [
+    320,
+    240
+  ],
+  "base_jpeg_quality": 80,
+  "original_total": 320,
+  "final_total": 494,
+  "original_counts": {
+    "test/healthy": 36,
+    "test/unhealthy": 37,
+    "train/healthy": 88,
+    "train/unhealthy": 86,
+    "validation/healthy": 36,
+    "validation/unhealthy": 37
+  },
+  "final_counts": {
+    "test/healthy": 36,
+    "test/unhealthy": 37,
+    "train/healthy": 176,
+    "train/unhealthy": 172,
+    "validation/healthy": 36,
+    "validation/unhealthy": 37
+  },
+  "source_counts": {
+    "field_garden/healthy": 120,
+    "field_garden/unhealthy": 23,
+    "generic_commons/unhealthy": 26,
+    "plantvillage/healthy": 40,
+    "plantvillage/unhealthy": 111
+  },
+  "augmentation": {
+    "train_only": true,
+    "variants_per_train_original": 1,
+    "horizontal_flip_probability": 0.5,
+    "zoom_range": [
+      1.0,
+      1.12
+    ],
+    "rotation_degrees": [
+      -8,
+      8
+    ],
+    "brightness_range": [
+      0.78,
+      1.18
+    ],
+    "contrast_range": [
+      0.82,
+      1.18
+    ],
+    "saturation_range": [
+      0.78,
+      1.18
+    ],
+    "blur_probability": 0.3,
+    "gaussian_noise_sigma": [
+      2.0,
+      6.0
+    ],
+    "jpeg_quality_range": [
+      48,
+      72
+    ]
+  },
+  "leakage_controls": [
+    "split before augmentation",
+    "all augmented variants stay with their parent in train",
+    "iNaturalist observation groups remain in one split",
+    "PlantVillage leaf groups remain in one split",
+    "known related Commons series remain in one split"
+  ]
+}
