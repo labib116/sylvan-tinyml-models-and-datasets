@@ -5,26 +5,27 @@
     240
   ],
   "base_jpeg_quality": 80,
-  "original_total": 320,
-  "final_total": 494,
+  "original_total": 334,
+  "final_total": 508,
   "original_counts": {
     "test/healthy": 36,
     "test/unhealthy": 37,
-    "train/healthy": 88,
-    "train/unhealthy": 86,
+    "train/healthy": 93,
+    "train/unhealthy": 95,
     "validation/healthy": 36,
     "validation/unhealthy": 37
   },
   "final_counts": {
     "test/healthy": 36,
     "test/unhealthy": 37,
-    "train/healthy": 176,
-    "train/unhealthy": 172,
+    "train/healthy": 181,
+    "train/unhealthy": 181,
     "validation/healthy": 36,
     "validation/unhealthy": 37
   },
   "source_counts": {
-    "field_garden/healthy": 120,
+    "esp32_cam/unhealthy": 9,
+    "field_garden/healthy": 125,
     "field_garden/unhealthy": 23,
     "generic_commons/unhealthy": 26,
     "plantvillage/healthy": 40,
@@ -70,5 +71,16 @@
     "iNaturalist observation groups remain in one split",
     "PlantVillage leaf groups remain in one split",
     "known related Commons series remain in one split"
+  ],
+  "incremental_updates": [
+    {
+      "date": "2026-09-29",
+      "split": "train",
+      "healthy_originals": 5,
+      "unhealthy_originals": 9,
+      "augmented_variants": 0,
+      "validation_and_test_unchanged": true,
+      "note": "Manually reviewed green tomato plants and bare branch/stem ESP32-CAM frames."
+    }
   ]
 }
